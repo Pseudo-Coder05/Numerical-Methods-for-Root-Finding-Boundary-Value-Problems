@@ -15,7 +15,7 @@ A full-stack web application implementing solutions to four applied numerical an
 - **Frontend:** React, React Router, Chart.js, Tailwind CSS
 
 ## Project Structure
-'''numerical-methods-toolkit/
+```numerical-methods-toolkit/
 ├── backend/
 │   ├── static/
 │   │   └── plots/           # generated plot images
@@ -28,7 +28,7 @@ A full-stack web application implementing solutions to four applied numerical an
 │   ├── package.json
 │   └── tailwind.config.js
 ├── .gitignore
-└── README.md'''
+└── README.md```
 ## Running the Project Locally
 
 ### Backend
